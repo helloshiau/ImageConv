@@ -1,4 +1,4 @@
-ImageConv6
+ImageConv8e
 
 Image Processing Tools, including: negative, sharp, edge, pixel x2, color to gray, and Star Enhancement.
 
